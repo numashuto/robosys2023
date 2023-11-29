@@ -4,6 +4,7 @@
 標準入力から読み込んだ数字を足す。
 
 ## インストール方法
+* https://github.com/numashuto/robosys202x
 
 ## 使い方
 
