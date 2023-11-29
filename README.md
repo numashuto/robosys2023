@@ -6,7 +6,7 @@
 ## インストール方法
 ```
 $ git clone https://github.com/numashuto/robosys202x.git
-$ cd robo202x
+$ cd robosys202x
 ```
 
 ## 使い方
