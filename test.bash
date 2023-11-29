@@ -1,5 +1,5 @@
 #!/bin/bash -xv
-# SPDX-FileCopyrightText: 2022 Shuto Numata
+# SPDX-FileCopyrightText: 2023 Shuto Numata
 # SPDX-License-Identifier: BSD-3-Clause
 
 ng () {

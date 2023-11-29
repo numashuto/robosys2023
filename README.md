@@ -1,18 +1,18 @@
 # plusコマンド
-![test](https://github.com/numashuto/robosys202x/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/numashuto/robosys2023/actions/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数字を足す。
 
 ## インストール方法
 以下のコマンドを実行
 ```
-$ git clone https://github.com/numashuto/robosys202x.git
+$ git clone https://github.com/numashuto/robosys2023.git
 ```
 
 ## 使用方法
-以下のコマンドで「robosys202x」ディレクトリに移動
+以下のコマンドで「robosys2023」ディレクトリに移動
 ```
-$ cd robosys202x
+$ cd robosys2023
 ```
 実行する
 ```
