@@ -4,13 +4,17 @@
 標準入力から読み込んだ数字を足す。
 
 ## インストール方法
+以下のコマンドを実行
 ```
 $ git clone https://github.com/numashuto/robosys202x.git
-$ cd robosys202x
 ```
 
-## 使い方
-
+## 使用方法
+以下のコマンドで「robosys202x」ディレクトリに移動
+```
+$ cd robosys202x
+```
+実行する
 ```
 $ seq 10 | ./plus
 55
@@ -21,7 +25,7 @@ $ seq 10 | ./plus
   * テスト済み: 3.7〜3.10
 
 ## テスト環境
-* Ubuntu20.04
+* Ubuntu 20.04 on Windows
 
 ## ライセンス
 * このソフトウェアパッケージは、３条項BSDライセンスの下、再頒布および使用が許可されます
