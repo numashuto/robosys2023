@@ -19,4 +19,4 @@ $ seq 10 | ./plus_stdin
 
 ## ライセンス
 * このソフトウェアパッケージは、３条項BSDライセンスの下、再頒布および使用が許可されます
-© 2023 Shuto Numata
+* © 2023 Shuto Numata
