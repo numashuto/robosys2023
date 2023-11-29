@@ -14,7 +14,7 @@ $ git clone https://github.com/numashuto/robosys2023.git
 ```
 $ cd robosys2023
 ```
-実行する
+実行例
 ```
 $ seq 10 | ./plus
 55
